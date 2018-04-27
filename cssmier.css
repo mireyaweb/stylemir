@@ -1,0 +1,31 @@
+
+
+#sidebar-css .widget h2{background:#fff;text-align:center;font-size:16px;color:#03a9f4;display:flex;align-items:center;border-radius:4px;border-bottom:3px solid #03a9f4}
+#footer-widget h2{border:2px solid #fff;position:relative;text-align:center;border-radius:20px;font-size:14px;color:#fff;margin-bottom:30px;top:4px;padding-bottom:6px;bottom:6px}#footer-widget h2:before{content:"\f141 ";display:block;font-family:FontAwesome;font-style:normal;background:rgba(0,153,255,.6)-webkit-linear-gradient(45deg,rgba(255,255,255,.05)25%,transparent 25%,transparent 50%,rgba(45,171,255,.8)50%,rgba(255,255,255,0)75%,rgba(230,70,70,0)75%,transparent);padding:5px;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:rgb(255,255,255);position:absolute;bottom:-15px;right:50%;margin-right:-87px;margin-bottom: 16px;z-index:9}
+#sidebar-css .widget h2:before{content:"\f0c9";background:#03A9F4;display:block;width:30px;position:relative;top:0;border:0;font-family:fontawesome;align-items:center;padding:8px;margin-left:10px;color:#fff}
+.tools{background:rgba(0,153,255,.6)-webkit-linear-gradient(45deg,rgba(255,255,255,.05)25%,transparent 25%,transparent 50%,rgba(45,171,255,.8)50%,rgba(255,255,255,0)75%,rgba(230,70,70,0)75%,transparent);padding:5px 10px;width:calc(100%+20px);display:flex;align-items:center;margin-top:10px}
+.botlink i{font-size:10px;background:rgba(0,153,255,.6)-webkit-linear-gradient(45deg,rgba(255,255,255,.05)25%,transparent 25%,transparent 50%,rgba(45,171,255,.8)50%,rgba(255,255,255,0)75%,rgba(230,70,70,0)75%,transparent);color:white;padding:3px;border-radius:50%;margin-left:5px}
+
+#sidebar-css{width:28%;position:relative;bottom:0;top:-16;right:0;display:block;float:left;margin-left:21px}
+#Followers1 h2::before{content:"\f234"!important}#BlogArchive1 h2::before{content:"\f187"!important}#Poll1 h2::before{content:"\f2ce"!important}#HTML4 h2{border-bottom:3px solid #3b5998!important;color:#3b5998!important}#HTML5 h2{border-bottom:3px solid #ca2127!important;color:#ca2127!important}#Followers1 h2::before{content:"\f234"!important}#BlogArchive1 h2::before{content:"\f187"!important}#HTML3 h2{border-bottom:3px solid #0a7c03!important;color:#0a7c03!important}#LinkList1 h2::before{content:"\f127"!important}#HTML4 h2::before{content:"\f082"!important;background:#3b5998!important}#HTML5 h2::before{content:"\f16a"!important;background:#ca2127!important}#HTML3 h2::before{content:"\f17b"!important;background:#0a7c03!important}#PopularPosts1 h2::before{content:"\f004"!important}.wrapper{width:1100px;max-width:100%;margin:0 auto}
+#footer-widget{width:1200px;margin-right: 0px;margin-left: 0px;}
+.breadcrumbs{background:rgba(0,153,255,.6)-webkit-linear-gradient(45deg,rgba(255,255,255,.05)25%,transparent 25%,transparent 50%,rgba(45,171,255,.8)50%,rgba(255,255,255,0)75%,rgba(230,70,70,0)75%,transparent);color:white;padding:10px;margin-bottom:10px;margin-right: 15px}.breadcrumbs a{color:white;font-weight:800}
+ embed{max-width:100%}
+#sidebar-cdt,#sidebar-css{visibility:visible;-webkit-animation-delay:.60s;-moz-animation-delay:.60s;animation-delay:.60s;animation-fill-mode:both;animation-duration:1s;backface-visibility:visible !important;animation-name:fadeInUpBig}
+div#sidebar-cdt {width: 211px;float: right;}
+.post h2 a{color:#434a54;font-size:18px;font-weight:700;text-decoration:none}
+.post h2 a:hover{color:rgba(0, 153, 255, 0.6) -webkit-linear-gradient(45deg,rgba(255, 255, 255, 0.05) 25%,transparent 25%,transparent 50%,rgba(45, 171, 255, 0.8) 50%,rgba(255, 255, 255, 0) 75%,rgba(230, 70, 70, 0) 75%,transparent); text-decoration:none}
+.post-header {margin:0;padding:13px 10px 10px;color:#333;line-height:1.6em;font-size:12px;overflow:hidden;font-weight:normal;text-transform:uppercase;font-family:dosis,neo}
+.post-header a{color:#444!important}
+.post-header a:hover{text-decoration:none;color:#555!important}
+.info-face{font:11px Tahoma;line-height:1.6em;margin:0;padding:0;color:#fff;text-decoration:none;display:block}
+.info-face a{color:#fff;text-decoration:none}
+.clock, .clock a {list-style:none;text-decoration:none}.time-info i{font-size:100%}
+.post-body{margin:0;padding:0}.time-info{padding-right:10px}.time-info .published{text-transform:none}
+.tanggalx a:hover{color:#000}img.authoravatar{width:30px!important;height:30px!important;border-radius:100%;float:right;margin-right:10px}
+.tanggalx a{
+color:#666;font-weight:400;line-height:2.4;font-size:13px}
+.snippet-wrapper{line-height:1.7em;padding-right:10px;color:#333;display:block;float:right;font-size:13px;height:100%;overflow:hidden}
+.post-thumbnail{height:100%;position:relative;border:none;margin:0 auto;text-align:center;display:block;float:right;margin-top:-23px}
+.post-thumb {float:right;line-height:0;position:relative;max-width:100%;width:300px}.jump-link {display:none}
+.box-body-deg{display:block;position:relative;overflow:hidden}.box-deg{height:auto;position:relative;margin:0;padding:0}
